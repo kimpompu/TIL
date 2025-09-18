@@ -139,5 +139,4 @@ Token 발급 코드 작성 중 `signWith()` 메소드에 `deprecated` 오류 발
 
 * 참고
     > https://lenagend.tistory.com/17   
-    </br>
     > https://blog.letsdev.me/jjwt-signwith-2024?source=more_articles_bottom_blogs
