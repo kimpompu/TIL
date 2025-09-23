@@ -1,4 +1,4 @@
-# 0923 TIL
+# 0922 TIL
 
 ### 1. JPA Query Method
 | **Keyword**         | **Sample**                    | **JPQL Snippet**                                             |
