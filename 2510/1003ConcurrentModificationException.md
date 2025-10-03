@@ -12,3 +12,6 @@ ___반복문을 통해 Collection이 변경되는 순간 발생___
 - List로 수정
 - for문 밖에서 수정하기
 - Iterator 사용
+
+> 참고
+[List 순회 중 만난 ConcurrentModificationException과 컬렉션 불변성](https://m.blog.naver.com/tmondev/220393974518)
