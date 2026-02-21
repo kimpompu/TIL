@@ -1,0 +1,9 @@
+{
+  "TIL Template": {
+    "prefix": "TIL", 
+    "body": [
+      "# ${CURRENT_YEAR/.*(\\d{2})/$1/}${CURRENT_MONTH}${CURRENT_DATE} TIL"
+    ],
+    "description": "TIL용 마크다운 템플릿"
+  }
+}

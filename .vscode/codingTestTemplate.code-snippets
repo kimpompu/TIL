@@ -1,0 +1,12 @@
+{
+  "Coding Test Template": {
+    "prefix": "ctest", 
+    "body": [
+      "# ${1:테스트이름}",
+      "```java",
+      "${0}",
+      "```"
+    ],
+    "description": "코딩 테스트용 마크다운 템플릿"
+  }
+}
