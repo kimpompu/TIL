@@ -7,5 +7,6 @@
 -<a href="https://github.com/kimpompu/TIL/tree/main/2511">2511</a><br> 
 -<a href="https://github.com/kimpompu/TIL/tree/main/2512">2512</a><br> 
 -<a href="https://github.com/kimpompu/TIL/tree/main/2601">2601</a><br> 
+-<a href="https://github.com/kimpompu/TIL/tree/main/2602">2602</a><br> 
 <br>
-<h3>⌨<a href="https://github.com/kimpompu/TIL/tree/main/2509">코드카타</a></h3> 
+<h3>⌨<a href="https://github.com/kimpompu/TIL/tree/main/2509">코딩테스트</a></h3> 
